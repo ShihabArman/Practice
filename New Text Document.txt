@@ -1,3 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	cout >> "Hello World";
+}
 'rifatvai'
 https://github.com/ShihabArman/Practice.gitD:\8th Semester (Spring 2025-26)\Software\Mid\Practice#include <iostream>
 using namespace std;
